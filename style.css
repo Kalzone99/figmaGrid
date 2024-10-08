@@ -87,19 +87,13 @@ h6 {
     grid-template-columns : 1fr 1fr;
     justify-items: center;
     align-items: center;
-    gap: 150px;
+    
 }
-.news{
-    width: 463px;
-    height: 327px;
-    margin-left: 120px;
-    position: relative;
+.news {
+    max-width: 70%;
 }
-.photo_1{
-    width: 590px;
-    height: 590px;
-    margin-right: 120px;
-}
+
+
 .photo_1 img {
     height:100%;
     width:100%;
