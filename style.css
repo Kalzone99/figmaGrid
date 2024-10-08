@@ -28,7 +28,7 @@ body {
     height: 65px;
     background-color: #3a3d46;
     box-shadow: 10px  black;
-    max-width: 1110px; 
+    max-width: 1440px; 
     margin: auto;   
 }
 
@@ -79,7 +79,7 @@ h6 {
 
 }
 .container_mid {
-    max-width: 1110px;
+    max-width: 1440px;
     margin: auto;
     height: 623px;
     background-color: #232424;
@@ -162,7 +162,7 @@ h2 {
 .container_photo {
     height: 823px;
     background-color: #f6f6f6;
-    max-width: 1110px;
+    max-width: 1440px;
     margin: auto;
 
 }
@@ -185,11 +185,11 @@ h3 {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
     gap: 20px;
-    width: 1200px;
+    max-width: 1200px;
     height: 566px;
     margin: 0 auto; 
     padding-top: 50px;
-    
+    margin: auto;
     justify-content: center;
     align-items: center;
 
